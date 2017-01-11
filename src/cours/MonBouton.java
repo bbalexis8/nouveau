@@ -34,8 +34,7 @@ public class MonBouton extends Button implements MouseListener {
 	}
 
 	@Override
-	public void mousePressed(MouseEvent e) {
-		
+	public void mousePressed(MouseEvent e) {	
 	}
 
 	@Override
